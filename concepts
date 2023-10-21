@@ -1,0 +1,9 @@
+Utilize o comando DELETE
+
+DELETE FROM aluno WHERE nome = 'Maria Ines'
+
+
+A leitura do código é a seguinte;
+Delete da tabela aluno o item filtrado por Maria Ines
+
+Se o comando WHERE não for declarado, a execução ocorrerá e todo os dados serão apagados.
